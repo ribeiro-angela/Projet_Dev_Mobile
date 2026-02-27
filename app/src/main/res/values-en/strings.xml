@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PowerHome</string>
+    <string name="connectez_vous">Login</string>
+    <string name="identifiez_vous">Identify yourself</string>
+    <string name="email">E-mail</string>
+    <string name="connectez_vousMAJ">IDENTIFY YOURSELF</string>
+    <string name="mot_de_passe_oublie">FORGOT PASSWORD?</string>
+    <string name="mot_de_passe">Password</string>
+    <string name="nouveau_sur_jumia">New on Jumia?</string>
+    <string name="cree_un_compte">CREATE AN ACCOUNT</string>
+    <string name="ou">OR</string>
+    <string name="connectez_vous_avec_facebook">Continue with Facebook</string>
+    <string name="identify_yourselfMAAAAAAJ">IDENTIFY YOURSELF</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone">Phone</string>
+    <string name="create">CREATE</string>
+    <string name="identificate">IDENTIFICATE</string>
+    <string name="creer_un_nouveau_compte">Créer un nouveau compte</string>
+
+</resources>
