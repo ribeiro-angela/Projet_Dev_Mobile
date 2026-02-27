@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         drawerLayout.addDrawerListener(toggle);
         toggle.syncState();
 
-        
+
 
         // Fragment par défaut au démarrage
         getSupportFragmentManager()
@@ -50,6 +50,8 @@ public class MainActivity extends AppCompatActivity {
                 fragment = new HabitatFragment();
             } else if (item.getItemId() == R.id.nav_appliance) {
                 fragment = new ApplianceFragment();
+            }else if (item.getItemId() == R.id.nav_param){
+                fragment = new ToolsFragment();
             }
 
             if (fragment != null) {
@@ -58,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
                         .replace(R.id.fragment_container, fragment)
                         .commit();
             }
-
+            item.setChecked(true);
             drawerLayout.closeDrawers();
             return true;
         });

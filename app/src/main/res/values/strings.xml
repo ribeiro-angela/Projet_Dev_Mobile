@@ -23,4 +23,13 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="open">Open</string>
     <string name="close">Close</string>
+
+    <string name="habitats">Habitats</string>
+    <string name="appliance">Appliances</string>
+    <string name="Param">Paramètres</string>
+
+    <string name="activeNotif">Activer les notifications</string>
+    <string name="jsp">jsp</string>
+
+
 </resources>
